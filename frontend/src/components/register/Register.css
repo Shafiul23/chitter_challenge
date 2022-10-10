@@ -1,0 +1,28 @@
+.container {
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 10%;
+    padding: 20px;
+}
+
+.centered-div {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.register {
+    display: grid;
+    align-items: center;
+    width: fit-content;
+    background: black;
+    color: #fff;
+    width: 10em;
+    height: 2em;
+    border-radius: 1.5em;
+    font-size: 1em;
+    cursor: pointer;
+}

@@ -1,0 +1,12 @@
+.logout {
+    display: grid;
+    align-items: center;
+    width: fit-content;
+    background: black;
+    color: #fff;
+    width: 11em;
+    height: 2em;
+    border-radius: 1.5em;
+    font-size: 1em;
+    cursor: pointer;
+}

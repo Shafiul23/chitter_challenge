@@ -1,0 +1,24 @@
+[
+    {
+        "_id": {
+            "$oid": "630f3013781b6446fc17f668"
+        },
+        "chirper": "Shafiul",
+        "chirpDescription": "This is the first ever tweet on Chitter!",
+        "chirpDateCreated": {
+            "$date": "2022-08-31T09:55:31Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "6310af77781b6446fc17f672"
+        },
+        "chirper": "Ed",
+        "chirpDescription": "When the weekend comes, do what makes you you!",
+        "chirpDateCreated": {
+            "$date": "2022-09-01T13:11:19Z"
+        },
+        "__v": 0
+    }
+]

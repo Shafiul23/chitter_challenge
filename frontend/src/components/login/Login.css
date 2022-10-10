@@ -1,0 +1,89 @@
+input {
+    margin: 0.25em;
+    border-radius: 5px;
+    padding: 0.45em
+}
+
+/* .container {
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    border-style: round;
+    border-width: 3px;
+} */
+
+/* .container {
+    border-radius: 25px;
+    border: 2px solid black;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+} */
+
+
+/* .centered-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+.container {
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 10%;
+    padding: 20px;
+}
+
+.centered-div {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.view {
+    display: grid;
+    align-items: center;
+    width: fit-content;
+    background: black;
+    color: #fff;
+    width: 11em;
+    height: 2em;
+    border-radius: 1.5em;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+.login {
+    display: grid;
+    align-items: center;
+    width: fit-content;
+    background: black;
+    color: #fff;
+    width: 11em;
+    height: 2em;
+    border-radius: 1.5em;
+    font-size: 1em;
+    /* margin-top: 0.5em;
+    margin-left: 3.7em; */
+    cursor: pointer;
+}
+
+.register {
+    display: grid;
+    align-items: center;
+    width: fit-content;
+    background: black;
+    color: #fff;
+    width: 11em;
+    height: 2em;
+    border-radius: 1.5em;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+.form {
+    display: inline-block;
+}

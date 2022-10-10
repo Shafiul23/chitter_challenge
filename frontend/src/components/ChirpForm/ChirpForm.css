@@ -1,0 +1,13 @@
+.chirp {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    width: fit-content;
+    background: #1da1f2;
+    color: #fff;
+    width: 11em;
+    height: 2em;
+    border-radius: 1.5em;
+    font-size: 1em;
+    cursor: pointer;
+}
